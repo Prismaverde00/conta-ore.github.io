@@ -1,0 +1,16 @@
+{
+  "name": "Foma ij cont de Alex Speedypizza",
+  "short_name": "Conta ore",
+  "description": "Calcolo del compenso: ore lavorate e chilometri",
+  "lang": "it",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf3e2",
+  "theme_color": "#8f2415",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
